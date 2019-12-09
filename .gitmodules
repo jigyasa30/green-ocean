@@ -1,0 +1,7 @@
+[submodule "themes/whisper"]
+	path = themes/whisper
+	url = https://github.com/JugglerX/hugo-whisper-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:jigyasa30/jigyasa30.github.io.git
+	branch = master
